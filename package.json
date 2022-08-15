@@ -1,15 +1,23 @@
 {
-  "dependencies": {
-    "node": "^18.7.0"
-  },
   "name": "demostuff",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMURAIM0SES/Demos-Lecture-notes.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "keywords": [],
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/SAMURAIM0SES/Demos-Lecture-notes/issues"
+  },
+  "homepage": "https://github.com/SAMURAIM0SES/Demos-Lecture-notes#readme",
+  "dependencies": {
+    "node": "^18.7.0"
+  }
 }
